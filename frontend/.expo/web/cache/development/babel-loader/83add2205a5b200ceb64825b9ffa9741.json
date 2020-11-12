@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from \"./ReactNativeSVG\";\nexport { default } from \"./ReactNativeSVG\";","map":{"version":3,"sources":["index.ts"],"names":[],"mappings":"AAAA;AAEA,SAAA,OAAA","sourcesContent":["export * from './ReactNativeSVG';\n\nexport { default } from './ReactNativeSVG';\n"]},"metadata":{},"sourceType":"module"}

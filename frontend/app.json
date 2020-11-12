@@ -1,0 +1,50 @@
+{
+    "expo": {
+        "name": "푸드 메이트",
+        "slug": "FoodMate",
+        "privacy": "public",
+        "sdkVersion": "37.0.0",
+        "platforms": [
+            "ios",
+            "android",
+            "web"
+        ],
+        "version": "1.2.0",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "cover",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true,
+            "bundleIdentifier": "com.milkcat.mimi"
+        },
+        "packagerOpts": {
+            "assetExts": [
+                "ttf"
+            ]
+        },
+        "description": "Now UI React Native, based on Now UI Design System. Coded by Creative Tim",
+        "android": {
+            "package": "com.milkcat.mimi",
+            "permissions": ["CAMERA", "WRITE_EXTERNAL_STORAGE", "CAMERA_ROLL", "READ_EXTERNAL_STORAGE", "MANAGE_DOCUMENTS"],
+            "config": {
+                "googleMaps": {
+                    "apiKey": "AIzaSyCOwOfQF2S5fJNopgULaErF-YCpzxCvnxQ"
+                },
+                "googleSignIn": {
+                    "apiKey": "AIzaSyCtPHH1TOS7TTq4Q2pOXiVOpn0teHB0l6w",
+                    "certificateHash": "720CB7137CF8EE34F2137ED5277A0A7068832E86"
+                }
+            }
+        }
+    }
+}

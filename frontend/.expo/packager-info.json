@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://ur-vax.milkcat.frontend.exp.direct",
+  "packagerNgrokUrl": "https://packager.ur-vax.milkcat.frontend.exp.direct",
+  "ngrokPid": 13304,
+  "devToolsPort": 19002,
+  "packagerPort": 19001,
+  "packagerPid": 19232,
+  "webpackServerPort": null
+}
