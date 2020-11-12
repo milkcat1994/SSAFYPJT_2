@@ -21,7 +21,7 @@
 
 
 ## :camera: 프로젝트 영상
-https://youtu.be/Br0dFB35rG0 
+https://youtu.be/VNxdu2FL5P0
 
 
 
